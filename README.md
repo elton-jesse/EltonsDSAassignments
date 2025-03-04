@@ -11,3 +11,8 @@
 
 
 
+Average_marks output screen
+
+
+
+![image](https://github.com/user-attachments/assets/4f424d44-832e-4601-82b0-1448538134d1)
